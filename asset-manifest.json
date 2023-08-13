@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/educase-project/static/css/main.af790889.css",
-    "main.js": "/educase-project/static/js/main.325d400d.js",
+    "main.js": "/educase-project/static/js/main.9f3fa317.js",
+    "static/media/user1.png": "/educase-project/static/media/user1.d54b5cea3dabfb92c990.png",
     "index.html": "/educase-project/index.html",
     "main.af790889.css.map": "/educase-project/static/css/main.af790889.css.map",
-    "main.325d400d.js.map": "/educase-project/static/js/main.325d400d.js.map"
+    "main.9f3fa317.js.map": "/educase-project/static/js/main.9f3fa317.js.map"
   },
   "entrypoints": [
     "static/css/main.af790889.css",
-    "static/js/main.325d400d.js"
+    "static/js/main.9f3fa317.js"
   ]
 }
