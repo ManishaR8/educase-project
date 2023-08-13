@@ -1,0 +1,68 @@
+.sign-in{
+
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .sign-cont{
+
+    height: 880px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 400px;
+    width: 335px;
+  }
+
+  .sign-box{
+    width: 235px;
+    position: relative;
+    /* right: 55px; */
+    right: 31px;
+  }
+
+  .form-cont{
+    position: relative;
+    bottom: 81px;
+    /* right: 25px; */
+    right: 0;
+  }
+
+  form{
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .input-btn{
+    display: flex;
+    width: 142px;
+    align-items: center;
+  }
+
+  .createBtn{
+    position: relative;
+    /* right: 25px; */
+    right: 0;
+  }
+
+  #sign-btn{
+    padding: 15px;
+    background-color: #762be5;
+    outline: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 300px;
+  }
+
+  .check-btn label{
+    position: inherit;
+  }
